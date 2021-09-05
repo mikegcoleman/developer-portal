@@ -131,7 +131,7 @@ Should give you an output like this
 }
 ```
 
-Epoch and slot number should match when being compared to the Cardano Explorer for testnet.
+Epoch and slot number should match when being compared to the Cardano Explorer for testnet(https://explorer.cardano-testnet.iohkdev.io/de.html).
 
 ![img](../../static/img/nfts/cardano_explorer_testnet.png)
 
